@@ -11,3 +11,4 @@ wheels/
 
 # Ignored files
 game_state.jsonl
+game_events.jsonl
